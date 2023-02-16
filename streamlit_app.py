@@ -1,4 +1,4 @@
-import  straemlit
+import  streamlit
 streamlit.title('My Parents New Healthy Diner!')
 streamlit.header('Breakfast Menu')
 streamlit.tetx('Omega 3 & Blueberry Oatmeal')
